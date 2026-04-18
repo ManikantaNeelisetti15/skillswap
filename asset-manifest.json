@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skillswap/static/css/main.e6c13ad2.css",
+    "main.js": "/skillswap/static/js/main.fe2fc8ba.js",
+    "static/js/453.e9e7ec89.chunk.js": "/skillswap/static/js/453.e9e7ec89.chunk.js",
+    "index.html": "/skillswap/index.html",
+    "main.e6c13ad2.css.map": "/skillswap/static/css/main.e6c13ad2.css.map",
+    "main.fe2fc8ba.js.map": "/skillswap/static/js/main.fe2fc8ba.js.map",
+    "453.e9e7ec89.chunk.js.map": "/skillswap/static/js/453.e9e7ec89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fe2fc8ba.js"
+  ]
+}
